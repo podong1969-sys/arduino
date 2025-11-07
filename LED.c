@@ -1,0 +1,8 @@
+//how to make an Arduino LED turn on
+void setup() {
+  pinMode(2, OUPUT);
+}
+
+void loop() {
+  digitalWrite(2, OUTPUT)
+}
